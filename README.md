@@ -9,6 +9,28 @@ This icon set is licensed under the Apache License 2.0.
 It may be used commercially, modified, and redistributed, as long as the copyright notice is preserved.
 More information: Apache License 2.0.
 
+## Attribution (Complying with Apache 2.0)  
+
+When using these icons in your project, please include the following attribution in your documentation or about section:  
+
+```
+Icons provided by Droniq GmbH
+https://droniq.de/
+Licensed under the Apache License, Version 2.0
+http://www.apache.org/licenses/LICENSE-2.0
+```
+
+Alternatively, in source files:  
+
+```xml
+<!--  
+Icons provided by Droniq GmbH  
+https://droniq.de/
+Licensed under the Apache License, Version 2.0  
+http://www.apache.org/licenses/LICENSE-2.0  
+-->
+```
+
 
 # Technical Information
 
