@@ -75,10 +75,9 @@ All icons are...
 | OBSTRUCTION_CLUSTER   | Obstruction      | Obstacle Cluster  |
 | OBSTRUCTION_FIX       | Obstruction      | Obstruction Fixed |
 | OBSTRUCTION_LINE      | Obstruction      | Obstacle Line     |
-| OPERATOR              | Human            |                   |
+| OPERATOR              | Human            | UAS Operator      |
 | PARACHUTE             | Human            | Parachute         |
 | PRIMARY_TARGET        | Primary Target   | Primary Target    |
-| SCOOTER               | Easteregg        | Scooter           |
 | SPACE                 | Space            | Space             |
 | SURFACE_EMERGENCY     | Surface Vehicle  | Surface Emergency |
 | SURFACE_SERVICE       | Surface Vehicle  | Surface Service   |
@@ -91,7 +90,6 @@ The following icons are usually used without rotation, always facing north:
 * OBSTRUCTION_CLUSTER
 * OBSTRUCTION_LINE
 * OBSTRUCTION_FIX
-* SCOOTER
 * SURFACE_EMERGENCY
 * SURFACE_SERVICE'
 * OPERATOR
